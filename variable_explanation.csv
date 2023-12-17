@@ -1,0 +1,14 @@
+Variable,Explanation
+CRIM,The crime rate per capita
+ZN,The proportion of residential land zoned for lots over 25000 sq.ft
+INDUS,The proportion of non-retail business acres per town
+CHAS,The Charles River dummy variable (1 if tract bounds river; 0 otherwise)
+NOX,The nitric oxides concentration (parts per 10 million)
+RM,The average number of rooms per dwelling
+AGE,The proportion of owner-occupied units built prior to 1940
+DIS,The weighted distances to five Boston employment centres
+RAD,The index of accessibility to radial highways
+TAX,The full-value property-tax rate per $10000
+PTRATIO,The pupil-teacher ratio by town
+LSTAT,The percentage lower status of the population
+TARGET,The median value of owner-occupied homes (in $1000)
